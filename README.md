@@ -12,6 +12,12 @@
   - ASP.NET MVC (Front-End)
 * Sourcecode from codeproject
 
+### How to use
+
+* Open the *.sln file in Visual Studio
+* Rebuild solution to install package automatically
+* Run the programs.
+
 ### Packages
 
 * //Install-Package jquery -version 2.1.0
