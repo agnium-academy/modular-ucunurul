@@ -23,10 +23,10 @@ namespace MvcWidgetBuilder.Controllers
             return View();
         }
 
-
+        #region Modularity
         public List<IWidget> GetWidgetData()
         {
-            var noticeboardWidget = new List<IWidget>
+            var noticeboardWidget = new List<IWidget> 
             {
                 new NoticeBoard()
                 {
@@ -71,6 +71,7 @@ namespace MvcWidgetBuilder.Controllers
                // },
                           
             };
+            #endregion
 
             return noticeboardWidget.OrderBy(p=>p.SortOrder).ToList();
         }
