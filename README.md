@@ -18,6 +18,9 @@
 * Rebuild solution to install package automatically
 * Run the programs.
 
+### Screenshot
+![Alt text](https://github.com/agnium-academy/modular-ucunurul/blob/master/Screenshot.jpg "Widgets Screenshot")
+
 ### How to develope from scratch
 
 * First, you must create Model, (the state)
