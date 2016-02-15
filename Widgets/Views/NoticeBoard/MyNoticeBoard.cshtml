@@ -1,0 +1,13 @@
+﻿@{
+    Layout = "~/Views/_Layout.cshtml";
+    ViewBag.Title = "Ini adalah contoh Widget pada ASP.NET MVC";
+}
+
+<h2>Penggunaan Widget pada ASP.NET MVC</h2>
+
+<p>
+    @{
+        
+        @Html.Partial("Widget/_WidgetContainer");
+    }
+</p>

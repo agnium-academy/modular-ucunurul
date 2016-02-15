@@ -1,0 +1,11 @@
+﻿@model  MvcWidgetBuilder.Models.IWidget
+
+
+@foreach (MvcWidgetBuilder.Models.IWidget wm in ViewBag.Widgets)
+{
+    
+    @Html.Partial(string.Concat(new[] { "Widget", "/", "_Widget" }), wm)
+}
+
+
+

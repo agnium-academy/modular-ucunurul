@@ -2,7 +2,7 @@
 
 ## Creating Widgets | Modularity
 
-* Project Name: Students
+* Project Name: Widgets
 * Version : 1.0
 * Date	: 15 February 2016
 * Description : Building Widgets|Modularity
@@ -14,9 +14,9 @@
 
 ### Packages
 
-* Install-Package jquery -version 2.1.0
-* Install-Package bootstrap -version 3.1.1
-* Install-Package knockoutjs –version 3.1.0
+* //Install-Package jquery -version 2.1.0
+* //Install-Package bootstrap -version 3.1.1
+* //Install-Package knockoutjs –version 3.1.0
 
 ### Database
 
@@ -34,4 +34,4 @@ Understand how to analysis and implement widgets.
 
 ### 15 February 2016:
 
-- Analysis code for widget in http://www.codeproject.com/Articles/216966/jQuery-SearchBox-AutoComplete-Widget
+- Analysis code for widget in http://www.codeproject.com/Articles/598383/Widgets-in-MVC
