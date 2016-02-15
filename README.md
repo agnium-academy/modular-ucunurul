@@ -2,7 +2,7 @@
 
 ## Creating Widgets | Modularity
 
-* Project Name: Widgets
+* Project Name: Widgets | Sticky Notes
 * Version : 1.0
 * Date	: 15 February 2016
 * Description : Building Widgets|Modularity
@@ -18,6 +18,15 @@
 * Rebuild solution to install package automatically
 * Run the programs.
 
+### How to develope from scratch
+
+* First, you must create Model, (the state)
+* Second, you create Controllers,
+* Create Interface
+* Create CSS
+* Create Razor File (~./Shared/_Layout.cshtml)
+* Create Views
+
 ### Packages
 
 * //Install-Package jquery -version 2.1.0
@@ -32,7 +41,7 @@
 
 ## Mini Project Roadmap
 
-Understand how to analysis and implement widgets.
+Understand how to analyze and implement widgets.
 
 *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
 
